@@ -2,8 +2,8 @@
 ![デモ](https://github.com/user-attachments/assets/5e082a7f-f056-4291-992b-aa0c94c7d394)
 | Addon |
 |:-----------|
-| [WindowBattleStatusForceFace.cs](https://raw.githubusercontent.com/pepaperon-p/Addon_WindowBattleStatusForceFace/main/WindowBattleStatusForceFace/WindowBattleStatusForceFace.cs "WindowBattleStatusForceFace.cs")|
-| [WindowBattleStatusForceFace.patch](https://raw.githubusercontent.com/pepaperon-p/Addon_WindowBattleStatusForceFace/main/WindowBattleStatusForceFace/WindowBattleStatusForceFace.patch "WindowBattleStatusForceFace.patch")|
+| [WindowBattleStatusForceFace.cs](https://raw.githubusercontent.com/pepaperon-p/Addon_WindowBattleStatusForceFace/refs/heads/main/WindowBattleStatusForceFace/WindowBattleStatusForceFace.cs "WindowBattleStatusForceFace.cs")|
+| [WindowBattleStatusForceFace.patch](https://raw.githubusercontent.com/pepaperon-p/Addon_WindowBattleStatusForceFace/refs/heads/main/WindowBattleStatusForceFace/WindowBattleStatusForceFace.patch "WindowBattleStatusForceFace.patch")|
 
 ```mermaid
 graph BT;
