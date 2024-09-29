@@ -1,6 +1,6 @@
 /*:
  * @addondesc Change the status display in battle scenes to face-up
- * @author Author
+ * @author pepaperon-p
  * @help This addon is a dummy for patch management.
  * Please apply the patch as follows:
  * ex.)
@@ -13,7 +13,7 @@
 
 /*:ja
  * @addondesc 戦闘シーンのステータス表示をフェイスアップにします
- * @author Author
+ * @author ぺぱぺろん(pepaperon-p)
  * @help このアドオンはパッチ管理用のダミーです。
  * 以下等の様にパッチを適用してください。
  * ex.)
