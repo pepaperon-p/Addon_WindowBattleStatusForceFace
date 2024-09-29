@@ -1,0 +1,13 @@
+diff --git a/Runtime/Battle/Window/WindowBattleStatus.cs b/Runtime/Battle/Window/WindowBattleStatus.cs
+index e91bc06..3b547c2 100644
+--- a/Runtime/Battle/Window/WindowBattleStatus.cs
++++ b/Runtime/Battle/Window/WindowBattleStatus.cs
+@@ -163,7 +163,7 @@ namespace RPGMaker.Codebase.Runtime.Battle.Window
+             _runtimeSave = DataManager.Self().GetRuntimeSaveDataModel();
+             ViewMode();
+             
+-            int characterType = DataManager.Self().GetUiSettingDataModel().commonMenus[0].characterType;
++            int characterType = (int) MenuIconTypeEnum.FACE; //DataManager.Self().GetUiSettingDataModel().commonMenus[0].characterType;
+ 
+             obj = _uiObject.gameObject;
+ 
