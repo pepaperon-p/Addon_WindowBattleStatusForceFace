@@ -1,4 +1,4 @@
-# WindowBattleStatusForceFace.cs
+# Addon_WindowBattleStatusForceFace
 ![デモ](https://github.com/user-attachments/assets/5e082a7f-f056-4291-992b-aa0c94c7d394)
 | Addon |
 |:-----------|
